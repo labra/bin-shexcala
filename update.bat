@@ -1,5 +1,5 @@
-set oldversion=0.2.0
-set version=0.2.2
+set oldversion=0.5.8
+set version=0.5.9
 
 set source=../ShExcala/target/universal
 set dest=binaries
